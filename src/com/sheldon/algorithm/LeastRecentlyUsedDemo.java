@@ -1,4 +1,4 @@
-package com.sheldon.algorithmn;
+package com.sheldon.algorithm;
 
 import java.util.HashMap;
 
